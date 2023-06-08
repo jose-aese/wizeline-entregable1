@@ -12,4 +12,5 @@ Crear un TOPIC
 
 <img width="1189" alt="image" src="https://github.com/jose-aese/wizeline-entregable1/assets/45864492/ef1547be-4b7a-4b8e-ad9f-1470435f2739">
 
-<img width="945" alt="image" src="https://github.com/jose-aese/wizeline-entregable1/assets/45864492/0c606314-81c7-4f3f-8108-684954f543a1">
+<img width="1189" alt="image" src="https://github.com/jose-aese/wizeline-entregable1/assets/45864492/770c14a1-8b38-4f3e-a37c-544149477573">
+
